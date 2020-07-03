@@ -1,0 +1,7 @@
+@import url("https://fonts.googleapis.com/css2?family=Kanit&display=swap");
+
+body {
+  padding: 30px;
+  min-width: 600px;
+  font: 18px "Kanit", sans-serif;
+}
